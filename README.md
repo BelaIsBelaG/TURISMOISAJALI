@@ -49,5 +49,4 @@
 | Node.js         | Backend             | 18.x     |
 | Express         | Framework API       | 4.x      |
 | MySQL           | Base de datos       | 8.0      |
-| Tailwind CSS    | Estilos             | 3.x      |
 
